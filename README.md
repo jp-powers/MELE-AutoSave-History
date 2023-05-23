@@ -15,17 +15,17 @@ While the code for ME1 copying exists in the script, I've changed the WinForm so
 These examples are from my ME3 testing of the script, but works similarly if not identically in ME2.
 
 **The Script Running**
-![MELE AutoSave History](Example1.jpg)
+![MELE AutoSave History](https://github.com/jp-powers/MELE-AutoSave-History/blob/master/Example1.png)
 
 The script utilizes a an infinite loop to constantly monitor the autosave file, so the WinForm console window shows certain items, but the write action (the actual copying) will write a history to the parent Powershell window.
 
-![Example of copied saves](Example2.jpg)
+![Example of copied saves](https://github.com/jp-powers/MELE-AutoSave-History/blob/master/Example2.png)
 
 This was a brand new ME3 save, and the Save_0001.pcsav and beyond files were created by the script, the game autosaved 4 times just in the opening before you can even hit Escape to bring up the menu.
 
-![Example of in game saves showing](Example3.jpg)
+![Example of in game saves showing](https://github.com/jp-powers/MELE-AutoSave-History/blob/master/Example3.png)
 
-This is an example form in-game, showing the saves as available to select and play. Since the script was monitoring during launch I think the numbering got a little goofy because the autosave was happening before you can actually create saves.
+This is an example from in-game, showing the saves as available to select and play. Since the script was monitoring during launch I think the numbering got a little goofy because the autosave was happening before you can actually create saves.
 
 ## TL;DR how it works
 
