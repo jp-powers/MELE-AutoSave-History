@@ -1,4 +1,4 @@
-# MELE AutoSave to Save
+# Mass Effect Legendary Edition Autosave History
 
 This Powershell script is a basic Powershell script with a WinForms GUI to automatically identify new Autosaves and copy them to regular saves so you can roll back if you made a mistake but don't want to replay large stretches of the game.
 
